@@ -1,0 +1,2 @@
+data/unsup.csv filter=lfs diff=lfs merge=lfs -text
+data/DocumentosAcordaos.json filter=lfs diff=lfs merge=lfs -text
